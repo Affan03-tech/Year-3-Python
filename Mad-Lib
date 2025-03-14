@@ -1,7 +1,34 @@
-print (WELCOME TO MAD-LIB")
-print("Please answer the following questions")
+print ("Welcome To MAD-LIB")
+print ("Please answer the following questions")
 print ("")
 
 
-adjective1 = input("Enter an adjective e.g. small,big,massive
-nationality1 = input ("Enter a nationality >>>
+Song = input ("What is your favourite song")
+Sportsman = input ("Who is your favourite sportsman")
+Arsenal= input ("What's your favourite football team")
+sauce= input ("What's your favourite ice cream sauce")
+adjective2= input ("Enter an adjective e.g.large >>> ")
+noun1= input ("Enter a noun>>> ")
+adjective1 = input ("Enter an adjective e.g.Small >>> ")
+nationality1 = input("Enter a nationality >>> ")
+person1= input ("Enter a person>>> ")
+print ("")
+print (" Here is your MAD-LIB")
+print ("")
+print ("Ice cream was invented by a" ,adjective1, nationality1,person1)
+print ("To make ice cream, you need a lot of" ,noun1)
+print ("Then you cover it with" , adjective2 , sauce,)
+print ("Arsenal will win the champions league")
+print ("Lebron James is my king")
+
+
+print ("LeBron Raymone James Sr. (/lebrɒn/;[1] lə-BRON; born December 30, 1984) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). Nicknamed King James, he is the NBAs all-time leading scorer and has won four NBA championships from 10 NBA Finals appearances having made eight consecutive appearances between 2011 and 2018.[2] He also won the inaugural NBA Cup in 2023 with the Lakers and has won three Olympic gold medals as a member of the U.S. national team.")
+print ("In addition to ranking fourth in NBA career assists and sixth in NBA career steals James holds several individual honors including four NBA MVP awards, four Finals MVP awards the Rookie of the Year award three All-Star Game MVP awards the inaugural NBA Cup MVP, and the Olympics MVP in the 2024 Summer Olympics. A record 21-time All-Star and 20-time All-NBA selection (including a record 13 First Team selections), he has also made six All-Defensive Teams.[3][4] The oldest active player in the NBA, he is tied with Vince Carter for the most seasons played and holds the record for the most minutes played in league history.")
+
+
+
+
+
+            
+    
+
